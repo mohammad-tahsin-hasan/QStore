@@ -46,4 +46,4 @@ QStore lets you scan, organize, generate, share, and cloud-sync QR codes in one 
 
 ---
 
-© 2026 mth-studio. All rights reserved.
+© 2026 tahsin hasan. All rights reserved.
