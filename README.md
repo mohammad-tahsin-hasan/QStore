@@ -8,7 +8,7 @@ QStore lets you scan, organize, generate, share, and cloud-sync QR codes in one 
 
 ## Download
 
-- **[Download QStore APK (Google Drive)](https://drive.google.com/YOUR_GOOGLE_DRIVE_LINK_HERE)**
+- **[Download QStore APK (Google Drive)](https://drive.google.com/uc?export=download&id=1H027_poSJheaNbhSKi--9qvvq3GeuG7k)**
 
 ### How to Install
 1. Download the `.apk` file from the Google Drive link above.
