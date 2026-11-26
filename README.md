@@ -8,7 +8,8 @@ QStore lets you scan, organize, generate, share, and cloud-sync QR codes in one 
 
 ## Download
 
-- **[Download QStore APK (QStore Website)](https://qstore-mth-studio.vercel.app)**
+- **[QStore APK Website)](https://qstore-mth-studio.vercel.app)**
+- **[Download QStore APK (QStore Google Drive)](https://qstore-mth-studio.vercel.app)**
 
 ### How to Install
 1. Visit the **QStore Website** link above and download the `.apk` file.
